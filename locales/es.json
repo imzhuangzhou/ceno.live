@@ -38,12 +38,12 @@
 		"btn2": "Ver Documentos"
 	},
 	"About": {
-		"h1": "Sobre Nosotros",
-		"h2": "Somos un equipo profesional dedicado al diseño y desarrollo frontend, comprometidos a proporcionar soluciones innovadoras y eficientes para nuestros clientes.",
-		"why": "Por Qué Elegirnos",
-		"why_content": "Con años de experiencia en la industria y conocimientos especializados, podemos entender profundamente las necesidades de nuestros clientes y proporcionar soluciones personalizadas. Nos enfocamos en la innovación y la experiencia del usuario, asegurando que cada proyecto supere las expectativas de nuestros clientes.",
-		"team": "Presentación del Equipo",
-		"team_content": "Nuestro equipo está compuesto por diseñadores, desarrolladores y gerentes de proyecto apasionados y creativos. Creemos que solo a través del trabajo en equipo cercano y el aprendizaje continuo podemos proporcionar el servicio y los productos de la más alta calidad para nuestros clientes."
+		"h1": "Sobre Ceno",
+		"h2": "Somos los guardianes de la memoria digital de la humanidad, dedicados a garantizar que ningún conocimiento, idea o creación se pierda ante el tiempo o la obsolescencia tecnológica.",
+		"why": "Por Qué Elegir Ceno",
+		"why_content": "Nuestra pionera tecnología de IA construye archivos inteligentes que salvaguardan los datos empresariales más críticos y el conocimiento cultural del mundo, asegurando que permanezcan seguros, comprensibles y accesibles para las generaciones futuras.",
+		"team": "Nuestra Misión",
+		"team_content": "Fundada para resolver la obsolescencia digital, utilizamos IA propietaria para crear archivos digitales vivientes que se vuelven más inteligentes con el tiempo. Creemos en hacer el conocimiento colectivo de la humanidad permanentemente accesible."
 	},
 	"Blog": {
 		"title": "Blog",

@@ -38,12 +38,12 @@
 	  "btn2": "Voir la documentation"
 	},
 	"About": {
-		"h1": "À Propos de Nous",
-		"h2": "Nous sommes une équipe professionnelle dédiée à la conception et au développement front-end, engagée à fournir des solutions innovantes et efficaces à nos clients.",
-		"why": "Pourquoi Nous Choisir",
-		"why_content": "Avec des années d'expérience dans l'industrie et une expertise approfondie, nous pouvons comprendre en profondeur les besoins de nos clients et fournir des solutions personnalisées. Nous nous concentrons sur l'innovation et l'expérience utilisateur, en veillant à ce que chaque projet dépasse les attentes de nos clients.",
-		"team": "Présentation de l'Équipe",
-		"team_content": "Notre équipe est composée de designers, développeurs et chefs de projet passionnés et créatifs. Nous croyons que ce n'est que par un travail d'équipe étroit et un apprentissage continu que nous pouvons fournir des services et des produits de la plus haute qualité à nos clients."
+		"h1": "À Propos de Ceno",
+		"h2": "Nous sommes les gardiens de la mémoire numérique de l'humanité, dédiés à garantir qu'aucune connaissance, idée ou création ne soit perdue face au temps ou à l'obsolescence technologique.",
+		"why": "Pourquoi Choisir Ceno",
+		"why_content": "Notre technologie IA pionnière construit des archives intelligentes qui protègent les données d'entreprise les plus critiques et la connaissance culturelle du monde, garantissant qu'elles restent sécurisées, compréhensibles et accessibles pour les générations futures.",
+		"team": "Notre Mission",
+		"team_content": "Fondée pour résoudre l'obsolescence numérique, nous utilisons une IA propriétaire pour créer des archives numériques vivantes qui deviennent plus intelligentes au fil du temps. Nous croyons en la nécessité de rendre le savoir collectif de l'humanité perpétuellement accessible."
 	},
 	"Blog": {
 		"title": "Blog",
